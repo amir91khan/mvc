@@ -1,0 +1,22 @@
+SQL> select * from  MedPlusStore;
+
+     MEDID MEDNAME              FORMULAENAME              PRICE
+---------- -------------------- -------------------- ----------
+COMPANY
+--------------------
+       101 abc                  zzz                          25
+drReddy
+
+       102 Acemuc               Acetylcystein                45
+drReddy
+
+       103 Abacavir Tablet      Abacavir                     45
+AbamuneFilmCoated
+
+
+     MEDID MEDNAME              FORMULAENAME              PRICE
+---------- -------------------- -------------------- ----------
+COMPANY
+--------------------
+       104 Alcohol Withdrawal   Altitude Sickness            45
+AbamuneFilmCoated
